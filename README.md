@@ -14,5 +14,5 @@ A Python project to **generate secure passwords** and **check their strength** b
 ## ⚙️ Installation & Usage
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/password-generator-strength-checker.git
+git clone https://github.com/aditya-kumar-2006/password-generator-strength-checker.git
 cd password-generator-strength-checker
